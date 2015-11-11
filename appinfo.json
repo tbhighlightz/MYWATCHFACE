@@ -1,0 +1,23 @@
+{
+    "appKeys": {},
+    "capabilities": [
+        "configurable"
+    ],
+    "companyName": "tbhighlightz",
+    "longName": "MyWatchFace",
+    "projectType": "native",
+    "resources": {
+        "media": []
+    },
+    "sdkVersion": "3",
+    "shortName": "MyWatchFace",
+    "targetPlatforms": [
+        "aplite",
+        "basalt"
+    ],
+    "uuid": "f3007e22-c353-4428-b74b-651337d94100",
+    "versionLabel": "1.0",
+    "watchapp": {
+        "watchface": true
+    }
+}
